@@ -1,5 +1,5 @@
 ---
-path: /blog/google
+path: /google
 date: 2019-11-21T08:11:32.929Z
 title: Google
 ---
