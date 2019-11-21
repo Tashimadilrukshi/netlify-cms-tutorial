@@ -1,5 +1,5 @@
 ---
-path: /about
+path: 'https://angry-hopper-09bd45.netlify.com/about'
 date: 2019-11-21T08:11:32.929Z
 title: Google
 ---
